@@ -1,5 +1,5 @@
 import React from 'react';
-import './CartItem.css';
+import './cartItem.css';
 
 // 🛒 장바구니에 담긴 개별 상품을 보여주는 컴포넌트
 function CartItem({ item, onIncrease, onDecrease, onRemove }) {

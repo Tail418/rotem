@@ -1,5 +1,5 @@
 import React from "react";
-import './MenuItem.css';
+import './menuItem.css';
 
 function MenuItem({ item, onAddToCart}) {
     const handlAddClick = () => {
